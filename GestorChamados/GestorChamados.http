@@ -1,0 +1,6 @@
+@GestorChamados_HostAddress = http://localhost:5269
+
+GET {{GestorChamados_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
